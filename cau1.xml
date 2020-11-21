@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <STT>0</STT>
+    <Mabenhan>0</Mabenhan>
+    <hoten>0</hoten>
+    <diachi>0</diachi>
+    <gioitinh>0</gioitinh>
+    <ngaynhapvien>0</ngaynhapvien>
+    <songaydieutri>0</songaydieutri>
+    <sotien>0</sotien>
+  </book>
+  <book>
+    <STT>1</STT>
+    <Mabenhan>1</Mabenhan>
+    <hoten>1</hoten>
+    <diachi>1</diachi>
+    <gioitinh>1</gioitinh>
+    <ngaynhapvien>1</ngaynhapvien>
+    <songaydieutri>1</songaydieutri>
+    <sotien>1</sotien>
+  </book>
+</books>
